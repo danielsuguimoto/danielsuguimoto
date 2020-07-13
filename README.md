@@ -11,5 +11,5 @@ My name is Daniel, a fullstack developer living in Bauru-SP, Brazil.
 
 - :yellow_heart: [![Javascript Badge](https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://laravel.com)](https://laravel.com)
 - :computer: Currently developing stuff with [![Laravel Badge](https://img.shields.io/badge/Laravel-c14438?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com)](https://laravel.com) and [![VueJS Badge](https://img.shields.io/badge/-VueJS-4fc08d?style=flat-square&logo=Vue.js&logoColor=white&link=https://vuejs.org)](https://vuejs.org)
-- :wink: Also a [![Csharp Badge](https://img.shields.io/badge/-.NET-239120?style=flat-square&logo=c-sharp&logoColor=white&link=https://vuejs.org)](https://vuejs.org) developer
+- :wink: Also a [![Csharp Badge](https://img.shields.io/badge/-.NET-239120?style=flat-square&logo=c-sharp&logoColor=white&link=https://dotnet.microsoft.com)](https://dotnet.microsoft.com) developer
 - :heart: I love to learn new stuff
