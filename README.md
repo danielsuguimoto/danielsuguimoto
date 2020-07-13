@@ -1,16 +1,15 @@
-### Hi there 👋
+# Daniel Jun Suguimoto
 
-<!--
-**danielsuguimoto/danielsuguimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielsuguimoto)](https://github.com/danielsuguimoto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsuguimoto/)](https://www.linkedin.com/in/danielsuguimoto/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/djsuguimoto)](https://twitter.com/djsuguimoto)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsuguimoto@gmail.com)](mailto:danielsuguimoto@gmail.com)
 
-Here are some ideas to get you started:
+### Hello there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Daniel, a fullstack developer living in Bauru-SP, Brazil.
+
+- :yellow_heart: [![Javascript Badge](https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://laravel.com)](https://laravel.com)
+- :computer: Currently developing stuff with [![Laravel Badge](https://img.shields.io/badge/Laravel-c14438?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com)](https://laravel.com) and [![VueJS Badge](https://img.shields.io/badge/-VueJS-4fc08d?style=flat-square&logo=Vue.js&logoColor=white&link=https://vuejs.org)](https://vuejs.org)
+- :wink: Also a [![Csharp Badge](https://img.shields.io/badge/-.NET-239120?style=flat-square&logo=c-sharp&logoColor=white&link=https://vuejs.org)](https://vuejs.org) developer
+- :heart: I love to learn new stuff
