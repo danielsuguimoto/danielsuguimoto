@@ -29,5 +29,5 @@
     <b>Hello there! 👋&nbsp;</b>My name is <b>Daniel</b>, a fullstack developer living in <b>Bauru-SP</b>, <b>Brazil</b>.
 </p>
 <p align="center">
-    <img src="assets/aboutme.png" />
+    <img src="https://raw.githubusercontent.com/danielsuguimoto/danielsuguimoto/master/assets/aboutme.png" />
 </p>
