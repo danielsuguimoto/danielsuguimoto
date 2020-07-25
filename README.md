@@ -29,20 +29,5 @@
     <b>Hello there! 👋&nbsp;</b>My name is <b>Daniel</b>, a fullstack developer living in <b>Bauru-SP</b>, <b>Brazil</b>.
 </p>
 <p align="center">
-    💛&nbsp;In love with&nbsp;
-    <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-<p align="center">
-    💻&nbsp;Developing stuff with&nbsp;
-    <img src="https://img.shields.io/badge/Laravel-c14438?style=flat-square&logo=Laravel&logoColor=white" />
-    &nbsp;and&nbsp;
-    <img src="https://img.shields.io/badge/-VueJS-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />
-</p>
-<p align="center">
-    😉&nbsp;Also used to be a&nbsp;
-    <img src="https://img.shields.io/badge/-.NET-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    &nbsp;developer
-</p>
-<p align="center">
-    ❤️&nbsp;I love learning new stuff
+    <img src="aboutme.png" />
 </p>
