@@ -33,9 +33,9 @@
 </p>
 <div style="display:flex; justify-content:center;">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsuguimoto&theme=dracula" height="300px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsuguimoto&theme=dracula" height="250px" />
     </div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=danielsuguimoto&count_private=true&show_icons=true&theme=dracula" height="300px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=danielsuguimoto&count_private=true&show_icons=true&theme=dracula" height="250px" />
     </div>
 </div>
