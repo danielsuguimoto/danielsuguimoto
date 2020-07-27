@@ -29,13 +29,15 @@
     <b>Hello there! 👋&nbsp;</b>My name is <b>Daniel</b>, a fullstack developer living in <b>Bauru-SP</b>, <b>Brazil</b>.
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/danielsuguimoto/danielsuguimoto/master/assets/aboutme.png" height="350px" />
+    <img src="https://raw.githubusercontent.com/danielsuguimoto/danielsuguimoto/master/assets/aboutme.png" />
 </p>
-<div style="display:flex; justify-content:center;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsuguimoto&theme=dracula" height="250px" />
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=danielsuguimoto&count_private=true&show_icons=true&theme=dracula" height="250px" />
-    </div>
-</div>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsuguimoto&theme=dracula" />
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=danielsuguimoto&count_private=true&show_icons=true&theme=dracula"/>
+        </td>
+    </tr>
+</table>
