@@ -26,7 +26,7 @@
     </a>
 </p>
 <p align="center">
-    <b>Hello there! 👋&nbsp;</b>My name is <b>Daniel</b>, a fullstack developer living in <b>Bauru-SP</b>, <b>Brazil</b>.
+    <b>Hello there!&nbsp;<span>👋</span>&nbsp;</b>My name is <b>Daniel</b>, a fullstack developer living in <b>Bauru-SP</b>, <b>Brazil</b>.
 </p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/danielsuguimoto/danielsuguimoto/master/assets/aboutme.png" />
