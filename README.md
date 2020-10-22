@@ -37,7 +37,7 @@
             <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=danielsuguimoto&count_private=true&show_icons=true&theme=dracula"/>
         </td>
         <td align="center">
-            <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=danielsuguimoto&theme=dracula&layout=compact&langs_count=9" />
+            <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=danielsuguimoto&theme=dracula&layout=compact&langs_count=8" />
         </td>
     </tr>
 </table>
