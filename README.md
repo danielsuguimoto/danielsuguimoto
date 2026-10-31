@@ -9,20 +9,20 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
     </a>
     <a
-        href="https://twitter.com/djsuguimoto"
+        href="https://x/djsuguimoto"
         target="_blank"
     >
         <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/>
     </a>
     <a
-        href="mailto:junsuguimoto.dev@gmail.com"
+        href="mailto:contact@junsuguimoto.com"
         target="_blank"
     >
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
 </p>
 <p align="center">
-    <b>Hello there!&nbsp;<span>👋</span>&nbsp;</b>Welcome to my profile, my name is <b>Daniel Jun Suguimoto</b>, a passionate software engineer with over 13 years of experience in full-stack development working remotely from <b>Bauru-SP</b>, <b>Brazil</b>. I specialize in C# (.NET), PHP (Laravel & Symfony), Java (Spring Boot), Golang, and JavaScript (Vue & React). I love building innovative solutions and contributing to open-source projects. Always eager to learn and collaborate on exciting tech challenges!
+    <b>Hello there!&nbsp;<span>👋</span>&nbsp;</b>Welcome to my profile, my name is <b>Daniel Jun Suguimoto</b>, a passionate software engineer since 2011 in full-stack development working remotely from <b>Bauru-SP</b>, <b>Brazil</b>. I specialize in C# (.NET), PHP (Laravel & Symfony), Java (Spring Boot), Golang, and JavaScript (Vue & React). I love building innovative solutions and contributing to open-source projects. Always eager to learn and collaborate on exciting tech challenges!
 </p>
 <table border="0">
     <tr>
